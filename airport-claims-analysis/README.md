@@ -7,6 +7,13 @@ This project analyzes TSA airport insurance claims data as part of my Python Dat
 - tsa_claims2.csv
 - GlobalAirportDatabase.csv
 
+## Data Availability
+
+The `tsa_claims2.csv` dataset and the optional `maps/` shapefiles are not included in this repository because of GitHub upload limitations and file handling issues.
+
+The `GlobalAirportDatabase.csv` file is included.
+
+This notebook was originally completed as part of the UCSC Extension Python Data Analysis course.
 ## Questions Explored
 
 - What is the most common type of insurance claim?
